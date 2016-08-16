@@ -1,3 +1,5 @@
+----CRYPTO-----
+
 #http://www.planetcalc.com/1434/ 
 Calculator encrypts entered text by using Caesar cipher. Non-alphabetic symbols (digits, whitespaces, etc.) are not transformed.
 
@@ -19,5 +21,11 @@ Encrypt or Decrypt sensitive data using AES/DES/RCA encryptors (security tools).
 |______eval(gzuncompress(base64_decode('--cipher text--')));
 |______eval(gzinflate(str_rot13(base64_decode('--cipher text--'))));
 
+-----Shell/Pwn----
 #https://r57.gen.tr/
 Place for download shell.
+
+-----REVERSING-----
+
+#https://github.com/wibiti/uncompyle2
+To decompile python program
