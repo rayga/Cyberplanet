@@ -21,6 +21,12 @@ Encrypt or Decrypt sensitive data using AES/DES/RCA encryptors (security tools).
 |______eval(gzuncompress(base64_decode('--cipher text--')));
 |______eval(gzinflate(str_rot13(base64_decode('--cipher text--'))));
 
+#SHA1 Converter
+http://sha1.gromweb.com/? 
+
+#Charcode Convert
+http://jdstiles.com/java/cct.html
+
 -----Shell/Pwn----
 #https://r57.gen.tr/
 Place for download shell.
